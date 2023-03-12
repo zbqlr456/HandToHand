@@ -13,13 +13,15 @@
 
 ## Simulation
 
-**메인페이지**
+### 메인페이지
 <div>
   <img src = "https://user-images.githubusercontent.com/63107888/224534981-b347b4f2-87af-43fd-9e9b-f842b4ffe756.gif">
 </div>
 
-**NFT 거래 페이지**
-![HandToHand_NFT](https://user-images.githubusercontent.com/63107888/224535068-39c2050c-f4cd-4cdb-b5be-4717725c926c.gif)
+### NFT 거래 페이지
+<div>
+  <img src = "https://user-images.githubusercontent.com/63107888/224535068-39c2050c-f4cd-4cdb-b5be-4717725c926c.gif">
+</div>
 
 <br />
 
