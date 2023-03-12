@@ -14,7 +14,7 @@
 ## Simulation
 
 **메인페이지**
-![HandToHand_메인페이지](https://user-images.githubusercontent.com/63107888/224534981-b347b4f2-87af-43fd-9e9b-f842b4ffe756.gif)
+<img src = "[image/simulation/부모_입금.gif](https://user-images.githubusercontent.com/63107888/224534981-b347b4f2-87af-43fd-9e9b-f842b4ffe756.gif)">
 
 **NFT 거래 페이지**
 ![HandToHand_NFT](https://user-images.githubusercontent.com/63107888/224535068-39c2050c-f4cd-4cdb-b5be-4717725c926c.gif)
